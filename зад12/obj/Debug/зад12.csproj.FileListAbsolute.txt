@@ -1,0 +1,7 @@
+D:\Users\Станислав\Desktop\домашна1\зад12\bin\Debug\зад12.exe.config
+D:\Users\Станислав\Desktop\домашна1\зад12\bin\Debug\зад12.exe
+D:\Users\Станислав\Desktop\домашна1\зад12\bin\Debug\зад12.pdb
+D:\Users\Станислав\Desktop\домашна1\зад12\obj\Debug\зад12.csproj.AssemblyReference.cache
+D:\Users\Станислав\Desktop\домашна1\зад12\obj\Debug\зад12.csproj.CoreCompileInputs.cache
+D:\Users\Станислав\Desktop\домашна1\зад12\obj\Debug\зад12.exe
+D:\Users\Станислав\Desktop\домашна1\зад12\obj\Debug\зад12.pdb
