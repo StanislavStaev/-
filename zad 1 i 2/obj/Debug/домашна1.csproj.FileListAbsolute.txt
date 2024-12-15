@@ -1,0 +1,21 @@
+C:\Users\Станислав\source\repos\домашна1\домашна1\bin\Debug\домашна1.exe.config
+C:\Users\Станислав\source\repos\домашна1\домашна1\bin\Debug\домашна1.exe
+C:\Users\Станислав\source\repos\домашна1\домашна1\bin\Debug\домашна1.pdb
+C:\Users\Станислав\source\repos\домашна1\домашна1\obj\Debug\домашна1.csproj.AssemblyReference.cache
+C:\Users\Станислав\source\repos\домашна1\домашна1\obj\Debug\домашна1.csproj.CoreCompileInputs.cache
+C:\Users\Станислав\source\repos\домашна1\домашна1\obj\Debug\домашна1.exe
+C:\Users\Станислав\source\repos\домашна1\домашна1\obj\Debug\домашна1.pdb
+D:\Users\Станислав\Desktop\домашна1\домашна1\bin\Debug\домашна1.exe.config
+D:\Users\Станислав\Desktop\домашна1\домашна1\bin\Debug\домашна1.exe
+D:\Users\Станислав\Desktop\домашна1\домашна1\bin\Debug\домашна1.pdb
+D:\Users\Станислав\Desktop\домашна1\домашна1\obj\Debug\домашна1.csproj.AssemblyReference.cache
+D:\Users\Станислав\Desktop\домашна1\домашна1\obj\Debug\домашна1.csproj.CoreCompileInputs.cache
+D:\Users\Станислав\Desktop\домашна1\домашна1\obj\Debug\домашна1.exe
+D:\Users\Станислав\Desktop\домашна1\домашна1\obj\Debug\домашна1.pdb
+D:\Users\Станислав\Desktop\домашна1\zad 1 i 2\bin\Debug\домашна1.exe.config
+D:\Users\Станислав\Desktop\домашна1\zad 1 i 2\bin\Debug\домашна1.exe
+D:\Users\Станислав\Desktop\домашна1\zad 1 i 2\bin\Debug\домашна1.pdb
+D:\Users\Станислав\Desktop\домашна1\zad 1 i 2\obj\Debug\домашна1.csproj.AssemblyReference.cache
+D:\Users\Станислав\Desktop\домашна1\zad 1 i 2\obj\Debug\домашна1.csproj.CoreCompileInputs.cache
+D:\Users\Станислав\Desktop\домашна1\zad 1 i 2\obj\Debug\домашна1.exe
+D:\Users\Станислав\Desktop\домашна1\zad 1 i 2\obj\Debug\домашна1.pdb

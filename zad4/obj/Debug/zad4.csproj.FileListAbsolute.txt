@@ -1,0 +1,11 @@
+C:\Users\Станислав\source\repos\домашна1\zad4\bin\Debug\zad4.exe.config
+C:\Users\Станислав\source\repos\домашна1\zad4\bin\Debug\zad4.exe
+C:\Users\Станислав\source\repos\домашна1\zad4\bin\Debug\zad4.pdb
+C:\Users\Станислав\source\repos\домашна1\zad4\obj\Debug\zad4.csproj.AssemblyReference.cache
+C:\Users\Станислав\source\repos\домашна1\zad4\obj\Debug\zad4.csproj.CoreCompileInputs.cache
+C:\Users\Станислав\source\repos\домашна1\zad4\obj\Debug\zad4.exe
+C:\Users\Станислав\source\repos\домашна1\zad4\obj\Debug\zad4.pdb
+D:\Users\Станислав\Desktop\домашна1\zad4\obj\Debug\zad4.csproj.AssemblyReference.cache
+D:\Users\Станислав\Desktop\домашна1\zad4\obj\Debug\zad4.csproj.CoreCompileInputs.cache
+D:\Users\Станислав\Desktop\домашна1\zad4\obj\Debug\zad4.exe
+D:\Users\Станислав\Desktop\домашна1\zad4\obj\Debug\zad4.pdb
