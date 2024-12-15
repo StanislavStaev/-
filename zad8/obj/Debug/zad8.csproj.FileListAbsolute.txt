@@ -1,0 +1,7 @@
+D:\Users\Станислав\Desktop\домашна1\zad8\obj\Debug\zad8.csproj.AssemblyReference.cache
+D:\Users\Станислав\Desktop\домашна1\zad8\obj\Debug\zad8.csproj.CoreCompileInputs.cache
+D:\Users\Станислав\Desktop\домашна1\zad8\bin\Debug\zad8.exe.config
+D:\Users\Станислав\Desktop\домашна1\zad8\bin\Debug\zad8.exe
+D:\Users\Станислав\Desktop\домашна1\zad8\bin\Debug\zad8.pdb
+D:\Users\Станислав\Desktop\домашна1\zad8\obj\Debug\zad8.exe
+D:\Users\Станислав\Desktop\домашна1\zad8\obj\Debug\zad8.pdb
